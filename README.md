@@ -1,4 +1,4 @@
-# top_uk_youtubers_2024
+# Top UK Youtubers 2024
 
 # Overview
 This project analyzes the top YouTubers in the UK (2024) to assist a marketing team in selecting the best influencers. The data is extracted from **Kaggle** and **YouTube API**, processed using **Python**,  **SQL Server**, and visualized in **Power BI**.
